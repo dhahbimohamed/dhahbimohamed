@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Mohamed! 👋
 
-<!--
-**dhahbimohamed/dhahbimohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring ML Engineer
 
-Here are some ideas to get you started:
+I'm a computer science student based in Tunisia, passionate about Artificial Intelligence and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me 🙌
+
+📐 I love math and the concepts behind machine learning.  
+🚀 I'm committed to developing myself to become the best I can in this field.  
+🤝 I'm open to collaborating on fun and challenging projects that push me to grow.  
+📬 You can contact me at [mohameddhahbi56@gmail.com](mailto:mohameddhahbi56@gmail.com)
+
+---
+
+### Skills 🧠
+
+- **Programming Languages:** Python, (and others you may want to add)
+- **ML & AI Tools:** scikit-learn, pandas, NumPy
+- **Other Tech:** Streamlit, Docker, Git
+- **Databases & Cloud:** MySQL, AWS basics
+
+---
+
+### Projects 🔧
+
+I'm currently working on improving my deployment and cloud technology skills ☁️
+
+Stay tuned for more!
