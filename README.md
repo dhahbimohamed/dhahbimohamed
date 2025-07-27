@@ -1,6 +1,8 @@
 # Hi, I'm Mohamed! 👋
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=16BB0E&width=435&lines=Aspiring+ML+Engineer;Aspiring+AI+Engineer)](https://git.io/typing-svg)
+
 
 I'm a computer science student based in Tunisia, passionate about Artificial Intelligence and Machine Learning.
 
