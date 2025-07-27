@@ -19,7 +19,7 @@ I'm a computer science student based in Tunisia, passionate about Artificial Int
 
 ### Skills 🧠
 
-- **Programming Languages:** Python, (and others you may want to add)
+- **Programming Languages:** Python, C#
 - **ML & AI Tools:** scikit-learn, pandas, NumPy
 - **Other Tech:** Streamlit, Docker, Git
 - **Databases & Cloud:** MySQL, AWS basics
