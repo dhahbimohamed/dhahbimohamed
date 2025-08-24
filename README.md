@@ -27,6 +27,6 @@ I'm a computer science student based in Tunisia, passionate about Artificial Int
 
 ### Projects 🔧
 
-I'm currently working on improving my deployment and cloud technology skills ☁️
+I'm currently working on improving my deployment and cloud technology skills (MLops)☁️
 
 Stay tuned for more!
