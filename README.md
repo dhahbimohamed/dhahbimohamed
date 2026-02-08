@@ -25,8 +25,11 @@ I'm a computer science student based in Tunisia, passionate about Artificial Int
 
 ---
 
-### Projects 🔧
+## 🔥 GitHub Streak
 
-I'm currently working on improving my deployment and cloud technology skills (MLops)☁️
+![GitHub Streak](https://streak-stats.demolab.com?user=dhahbimohamed&theme=tokyonight)
 
-Stay tuned for more!
+
+
+
+
