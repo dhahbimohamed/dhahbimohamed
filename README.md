@@ -32,11 +32,3 @@
 </p>
 
 ---
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dhahbimohamed&theme=dark" />
-</p>
-
----
